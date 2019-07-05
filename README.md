@@ -12,6 +12,4 @@
 <p><font size="32">C. 一位同学在班上的学习方法交流会上说：“我殷切期望方法不当的同学改进方法，调整心态，取得佳绩。"</font></p>
 <p><font size="32">D. 老师年过七旬，早已退休在家，却仍然笔耕不辍，著述颇丰，作为他的高足，我们感到既自豪又惭愧。</font></p>
 <!--A项“一孔之见”是指从一个小窟窿里所看到的。比喻狭隘片面的见解。可以用作自谦之词，使用得体；“大方之家”原指懂得大道理的人，后泛指见识广，有学问的内行人。使用得体。B项，“自荐信”应既自信，又谦虚；“绝对名副其实”、“惟才是用”显得自高自大，有悖“谦虚”。C项，“殷切期望”多用于长辈对晚辈或领导对下属，用于同学之间不合适。D项，“高足”是敬辞，可以用来称呼别人的学生，但不能自称。-->
-<button onclick="document.getElementById('myImage').src='/i/eg_bulbon.gif'">A</button>
-<img id="myImage" border="0" src="/i/eg_bulboff.gif" style="text-align:center;">
-<button onclick="document.getElementById('myImage').src='/i/eg_bulboff.gif'">B</button>
+

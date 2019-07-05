@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/dfghj123tyuvi/Accumulation/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dfghj123tyuvi/Accumulation/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<h2>积累</h2>
+<p>这个项目仍然处在调试阶段，尚且不明白以后会不会启用。当然这个项目的初衷是为了积累一些语文上的常识。后期估计是会发展为一个语文知识的聚合分享项目。毕竟我们的语文老师要求我们在课前课前进行一个小小的五分钟分享。目前只有题目与一些句段。当然我填充的速度其实是不够的。但是的话我能做到多少那就做到多少。这个项目总是没有什么害处的。</p>
+<h2>目录</h2>
+<p>以下为正在准备或者完成好的项目</p><ul>
+<li><a href="about:blank">说话要得体</a></li>
+<li><a href="about:blank">名句名段分享</a></li>
+</ul>
+<h2>示例</h2><h3>ONE</h3>
+<p><b><font size="7">下列选项中语言表达得体的一项是</font></b></p>
+<p><font size="6">A. 表达了自己的观点之后，小王又谦虚地补充说：“本人才疏学浅，刚才的一些想法仅是一孔之见，还请在座的大方之家批评指正。”</font></p>
+<p><font size="6">B. 刚刚大学毕业的李霞在自荐信中说：“虽然我只有本科学历，但绝对名副其实，恳请学校领导唯才是用。”</font></p>
+<p><font size="6">C. 一位同学在班上的学习方法交流会上说：“我殷切期望方法不当的同学改进方法，调整心态，取得佳绩。"</font></p>
+<p><font size="6">D. 老师年过七旬，早已退休在家，却仍然笔耕不辍，著述颇丰，作为他的高足，我们感到既自豪又惭愧。</font></p>
+<!--A项“一孔之见”是指从一个小窟窿里所看到的。比喻狭隘片面的见解。可以用作自谦之词，使用得体；“大方之家”原指懂得大道理的人，后泛指见识广，有学问的内行人。使用得体。B项，“自荐信”应既自信，又谦虚；“绝对名副其实”、“惟才是用”显得自高自大，有悖“谦虚”。C项，“殷切期望”多用于长辈对晚辈或领导对下属，用于同学之间不合适。D项，“高足”是敬辞，可以用来称呼别人的学生，但不能自称。>

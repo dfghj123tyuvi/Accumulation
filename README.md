@@ -3,7 +3,7 @@
 <h2>目录</h2>
 <p>以下为正在准备或者完成好的项目</p><ul>
 <li><a href="about:blank">说话要得体</a></li>
-<li><a href="about:blank">名句名段分享</a></li>
+<li><a href="https://dfghj123tyuvi.github.io/Accumulation/share">名句名段分享</a></li>
 </ul>
 <h2>示例</h2><h3>ONE</h3><p>答案及解析参看网页注释</p>
 <p><b>下列句子不合语体风格的一项是</b></p>

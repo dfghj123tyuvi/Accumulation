@@ -8,13 +8,13 @@
 *******************************************************************************/
 
 KindEditor.lang({
-	source : 'HTML浠ｇ爜',
-	preview : '棰勮',
-	undo : '鍚庨€€(Ctrl+Z)',
-	redo : '鍓嶈繘(Ctrl+Y)',
-	cut : '鍓垏(Ctrl+X)',
-	copy : '澶嶅埗(Ctrl+C)',
-	paste : '绮樿创(Ctrl+V)',
+	source : 'HTML代码',
+	preview : '预览',
+	undo : '后退(Ctrl+Z)',
+	redo : '前进(Ctrl+Y)',
+	cut : '剪切(Ctrl+X)',
+	copy : '复制(Ctrl+C)',
+	paste : '粘贴(Ctrl+V)',
 	plainpaste : '绮樿创涓烘棤鏍煎紡鏂囨湰',
 	wordpaste : '浠嶹ord绮樿创',
 	selectall : '鍏ㄩ€�(Ctrl+A)',
